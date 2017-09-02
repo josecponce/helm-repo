@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   spring-cloud-config:
   - apiVersion: v1
-    created: 2017-09-02T14:15:59.310297661-04:00
+    created: 2017-09-02T14:22:43.03178141-04:00
     description: Spring cloud configuration chart
     digest: c0116340bee14ddab8eb976a77b89b2b5930be0267219b147c775c81f09bc80b
     keywords:
@@ -10,10 +10,10 @@ entries:
     - config-server
     name: spring-cloud-config
     urls:
-    - https://raw.githubusercontent.com/josecponce/helm-repo/spring-cloud-config-0.1.1.tgz
+    - https://raw.githubusercontent.com/josecponce/helm-repo/master/spring-cloud-config-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
-    created: 2017-09-02T14:15:59.309693786-04:00
+    created: 2017-09-02T14:22:43.030998572-04:00
     description: Spring cloud configuration chart
     digest: 04416af79f3d979934148b03766391748cba0ea1458bb6a87294f30fde094626
     keywords:
@@ -21,6 +21,6 @@ entries:
     - config-server
     name: spring-cloud-config
     urls:
-    - https://raw.githubusercontent.com/josecponce/helm-repo/spring-cloud-config-0.1.0.tgz
+    - https://raw.githubusercontent.com/josecponce/helm-repo/master/spring-cloud-config-0.1.0.tgz
     version: 0.1.0
-generated: 2017-09-02T14:15:59.309371582-04:00
+generated: 2017-09-02T14:22:43.030656779-04:00
